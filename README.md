@@ -1,6 +1,6 @@
 # Audio Summer: DSUB25/Tascam to XLR/TRS combo Jack
 
-![summer](img/PCB_PCB_easy-summer_2023-02-28.png)  ![photo01](img/photo01.png)
+![summer](img/PCB_PCB_easy-summer_2023-02-28.png) 
 
 
 ## Author and license
@@ -20,7 +20,7 @@ Consider [buying one for cheap off of Reverb](https://reverb.com/item/66385479-s
 
 ## Final product
 
-![photo02](img/photo02.png)
+![photo01](img/photo01.png) ![photo02](img/photo02.png)
 
 
 ## Schematic
